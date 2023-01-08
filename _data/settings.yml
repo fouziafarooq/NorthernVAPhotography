@@ -8,9 +8,10 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Headshots',          url: 'headshots'}
-- {name: 'Portraits',          url: 'portraits'}
-- {name: 'Family Photos',      url: 'familyphotos'}
+#- {name: 'Headshots',          url: 'headshots'}
+#- {name: 'Portraits',          url: 'portraits'}
+#- {name: 'Family Photos',      url: 'familyphotos'}
+- {name: 'Schedule Now',       url: 'schedule'}
 - {name: 'Pricing',            url: 'pricing'}
 - {name: 'Testimonials',       url: 'testimonials'}
 - {name: 'About Us',           url: 'about'}
